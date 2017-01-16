@@ -1,5 +1,6 @@
 %Práctica 1 Laboratorio de Control 
 
+%num y den vectores con los coeficientes del numeradory denominador de la planta
 num = [1];
 den = [1 3 1];
 rlocus(num,den)
